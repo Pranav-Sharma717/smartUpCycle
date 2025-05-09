@@ -108,6 +108,3 @@ License © 2025 smartUpCycle Team
 
 
 ---
-
-Would you like me to create a LICENSE file or .env.example file too?
-```

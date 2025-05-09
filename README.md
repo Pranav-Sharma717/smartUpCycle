@@ -32,35 +32,6 @@
 - **Community Forum**: Share ideas, compete in challenges, and climb the sustainability leaderboard
 - **Admin Dashboard**: Approve content, monitor trends, and manage community impact
 
----
-
-## 🧱 Architecture
-
-
-
-smartUpCycle/
-├── backend/
-│   ├── app.py
-│   ├── routes/
-│   ├── models/
-│   ├── templates/
-│   └── static/
-├── frontend/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── marketplace.html
-│   ├── diy.html
-│   ├── carbon.html
-│   ├── styles/
-│   └── scripts/
-├── database/
-├── model/
-├── .env
-├── requirements.txt
-├── README.md
-└── run.sh
-
-`
 
 ---
 
